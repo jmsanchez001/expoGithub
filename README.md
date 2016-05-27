@@ -1,2 +1,2 @@
 # expoGithub
-exposicion de santiago "como  usar gitthub"
+exposicion de santiago "como  usar github"
