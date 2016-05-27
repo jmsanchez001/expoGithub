@@ -5,7 +5,7 @@ $_SESSION['detalle'] = array();
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Carrito de Compras</title>
+    <title>Carrito de Compras</title><br>
 
     <!-- Bootstrap -->
     <link href="libs/css/bootstrap.css" rel="stylesheet">
